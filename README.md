@@ -1,2 +1,9 @@
-# cardiac-dynamics-simulation
-Cardiac Dynamics: Mathematical Study of Cardiomyocyte Models.
+# Cardiac Dynamics: Mathematical Study of Cardiomyocyte Models
+
+The theory of dynamical systems has become fundamental for the study of multiple real-life problems. We want to model phenomena in order to understand their progress over time. A proper modeling allows to draw conclusions about the behavior of the system. This is very useful in areas that require a qualitative and quantitative analysis of the evolution of some dynamic variables.
+
+In this bachelor's thesis, a number of mathematical concepts and techniques with application in biological systems are presented, as well as a description and analysis of some specific models of cardiomyocytes: the cells of the cardiac muscle. Regarding theory, we study the fast-slow differential equation systems that model in parallel the different time scales on which the variables of a system can evolve. The types of equilibrium points and the most relevant manifolds are explained. Fenichel theory for the persistence of manifolds is introduced and the phenomenon of canards is described. As for applications, we analyze two cardiomyocyte models: the Karma model and the reduced Luo-Rudy model. We apply the theory previously explained, perform numerical simulations in Python and analyze the results.
+
+Nowadays, with all the technological advances available, a thorough analysis of mathematical models in economics, physics or biology, among others, can provide valuable information with direct applications. Taking an example from this thesis, in the case of the presence of problems like arrhythmias, an accurate mathematical study allows to understand the precise chemical treatments that should be needed and the specific regions of the parameter and state spaces where special phenomena occur. This creates a link between mathematics and other sciences, demonstrating the potential of mathematics as an applied discipline.
+
+In this repository you can find the code in a Jupyter notebook and also an export to HTML file. All project details are described in the main PDF document of the thesis and an appendix with supplementary information is also provided.
